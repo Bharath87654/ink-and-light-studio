@@ -17,9 +17,9 @@ const Index = () => {
   }, []);
 
   const featuredArtworks = [
-    { id: 1, title: "Demon Slayer", image: "/lovable-uploads/d139182f-73fa-45f3-8b1a-2fccdf9f9588.png" },
-    { id: 2, title: "Black Clover", image: "/lovable-uploads/193bb680-4953-45b8-8389-45e11baf24c8.png" },
-    { id: 3, title: "Tokyo Ghoul", image: "/lovable-uploads/3ec3c6c6-4e4b-4f2e-b9e3-ac4da53d1a2a.png" },
+    { id: 1, title: "Intensity", image: artwork1 },
+    { id: 2, title: "Mystery", image: artwork2 },
+    { id: 3, title: "Elegance", image: artwork3 },
   ];
 
   return (
