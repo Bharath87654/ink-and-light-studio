@@ -17,21 +17,63 @@ interface Artwork {
 const artworks: Artwork[] = [
   {
     id: 1,
-    title: "Intensity",
-    image: artwork1,
-    description: "A powerful anime character portrait showcasing dramatic expression and dynamic energy through masterful pencil work.",
+    title: "Demon Slayer",
+    image: "/lovable-uploads/d139182f-73fa-45f3-8b1a-2fccdf9f9588.png",
+    description: "A masterful pencil drawing featuring a Demon Slayer character with incredible detail and shading.",
   },
   {
     id: 2,
-    title: "Mystery",
-    image: artwork2,
-    description: "An enigmatic masked character rendered with intricate detail and atmospheric shading.",
+    title: "Mysterious Warrior",
+    image: "/lovable-uploads/f03e6951-8889-41fa-98c2-ef8f8b87f19d.png",
+    description: "An enigmatic character with intricate armor and mysterious aura, beautifully rendered in pencil.",
   },
   {
     id: 3,
-    title: "Elegance",
-    image: artwork3,
-    description: "A graceful female character portrait with soft, delicate features and gentle expression.",
+    title: "Black Clover",
+    image: "/lovable-uploads/193bb680-4953-45b8-8389-45e11baf24c8.png",
+    description: "A dynamic Black Clover character portrait with amazing detail and red accent highlights.",
+  },
+  {
+    id: 4,
+    title: "Tokyo Ghoul",
+    image: "/lovable-uploads/3ec3c6c6-4e4b-4f2e-b9e3-ac4da53d1a2a.png",
+    description: "A striking Tokyo Ghoul character with haunting red details and masterful shading technique.",
+  },
+  {
+    id: 5,
+    title: "Elegant Portrait",
+    image: "/lovable-uploads/f019f69a-965f-4242-98ab-1466686dd663.png",
+    description: "A graceful anime character portrait with soft features and delicate pencil work.",
+  },
+  {
+    id: 6,
+    title: "Winter Character",
+    image: "/lovable-uploads/2086ea3c-f663-4eca-9689-b3f4d14b253a.png",
+    description: "A beautiful winter-themed character with flowing hair and gentle expression.",
+  },
+  {
+    id: 7,
+    title: "Luffy",
+    image: "/lovable-uploads/43f5486b-79dd-416f-9e7d-ff321391aff1.png",
+    description: "A vibrant One Piece Luffy artwork with dynamic energy and colorful highlights.",
+  },
+  {
+    id: 8,
+    title: "Friendship",
+    image: "/lovable-uploads/77b742c8-4b19-435b-9af3-96f0a21ef082.png",
+    description: "A heartwarming portrait of two characters showcasing the bond of friendship.",
+  },
+  {
+    id: 9,
+    title: "One Piece Phone Case",
+    image: "/lovable-uploads/4f494687-1c2a-4747-b907-7a4d3a3ad6bc.png",
+    description: "A creative One Piece themed phone case design showing artistic versatility.",
+  },
+  {
+    id: 10,
+    title: "Hisoka",
+    image: "/lovable-uploads/dbbf7b92-868f-4bfd-8f99-ec29913fd21f.png",
+    description: "A colorful and dynamic Hisoka portrait with vibrant red and blue tones.",
   },
 ];
 
